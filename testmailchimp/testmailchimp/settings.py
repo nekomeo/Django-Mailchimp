@@ -129,6 +129,6 @@ REST_FRAMEWORK = {
     'PAGE_SIZE': 10
 }
 
-MAILCHIMP_API_KEY = '82a6b17fbee1f2f61d38d92bb10dd346-us17'
-MAILCHIMP_USERNAME = 'neko_meo'
-MAILCHIMP_LIST_ID = 'd8dddea9de'
+MAILCHIMP_API_KEY = 'insert_api_key_here'
+MAILCHIMP_USERNAME = 'insert_username'
+MAILCHIMP_LIST_ID = 'insert_list_id_here'
